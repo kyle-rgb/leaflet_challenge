@@ -8,3 +8,46 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  padding: 12px;
+  font-family: Arial, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 22px;
+  color: #000000;
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend i {
+  padding: 9px;
+  float: left;
+  margin-right: 8px;
+}
+
+/* .legend .lowest {
+  color: #00FF09;
+}
+
+.legend .lower {
+  color: #E5FF09;
+}
+
+.legend .average {
+  color:  #efdf00; 
+}
+
+.legend .deep {
+  color: #FFA000;
+}
+
+.legend .deeper {
+  color: #FF5600;
+}
+
+.legend .deepest {
+  color: #FF0000;
+} */
+
